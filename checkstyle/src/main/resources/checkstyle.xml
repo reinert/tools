@@ -52,7 +52,7 @@
             <property name="option" value="bottom"/>
             <property name="ordered" value="true"/>
             <property name="separated" value="true"/>
-            <property name="groups" value="com,java,javax,junit,net,org"/>
+            <property name="groups" value="java,javax,com,io,net,org"/>
         </module>
         <module name="JavadocType">
             <property name="severity" value="info"/>
