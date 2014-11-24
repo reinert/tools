@@ -6,7 +6,7 @@
 <suppressions>
 
     <!-- Suppress MagicNumberCheck for files under test -->
-    <suppress checks="MagicNumberCheck" files=".*[/\\]test[/\\].*"/>
+    <suppress checks="MagicNumberCheck|MethodName" files=".*[/\\]test[/\\].*"/>
 
     <!-- Suppress files under target -->
     <suppress checks=".*" files=".*[/\\]target[/\\].*"/>
