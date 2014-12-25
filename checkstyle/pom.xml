@@ -10,7 +10,7 @@
 
   <groupId>io.reinert.tools</groupId>
   <artifactId>checkstyle</artifactId>
-  <version>1.0.0-SNAPSHOT</version>
+  <version>1.0.0</version>
   <name>Reinert Checkstyle</name>
   <inceptionYear>2014</inceptionYear>
   <description>Checkstyle specifications for Java projects.</description>
